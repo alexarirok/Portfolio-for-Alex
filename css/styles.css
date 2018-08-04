@@ -1,0 +1,12 @@
+body{
+  background-color: mistyrose;
+  color: black;
+  font-family: helvetica, verdana, sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 1.4em;
+
+}
+p {
+  color: rgba(,0, 0, 0.5);
+}
