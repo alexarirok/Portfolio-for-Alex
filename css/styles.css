@@ -1,12 +1,50 @@
-body{
+body {
   background-color: mistyrose;
   color: black;
   font-family: helvetica, verdana, sans-serif;
   font-size: 17px;
   font-weight: normal;
   line-height: 1.4em;
+  padding: 20px;
+  margin: auto;
+}
+.container {
+  width: auto;
+  margin: auto;
+}
+.box-1{
+  background-color: skyblue;
+  color: black;
+  border: 5px black;
+  padding: 20px;
 
 }
+.box-1 h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 20px;
+  font: normal;
+  font-style: normal;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 0.43em;
+  word-spacing: normal;
+}
+
 p {
-  color: rgba(,0, 0, 0.5);
+  margin: 5px 10px 5px 10px;
+}
+
+.box-2 {
+  border: 5px dotted #ccc;
+  padding: 20px;
+  margin: auto;
+  background-color: mistyrose;
+}
+img {
+  float: right;
+}
+.sidebar {
+  width: auto;
+  float: left;
 }
