@@ -44,9 +44,12 @@ p {
 img {
   float: right;
 }
-.sidebar {
-  width: auto;
-  float: left;
+#main-footer {
+  background: skyblue;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
 }
 @media screen and (min-width: 480px) and (max-width: 960px) {
     body {
