@@ -48,3 +48,14 @@ img {
   width: auto;
   float: left;
 }
+@media screen and (min-width: 480px) and (max-width: 960px) {
+    body {
+        background-color: tomato;
+        color: black;
+    }
+}
+@media screen and (min-width: 960px) {
+  body {
+    background-color: yellowgreen;
+  }
+}
